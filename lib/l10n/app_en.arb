@@ -1,0 +1,426 @@
+{
+    "homeScreenTitle": "Home",
+    "@homeScreenTitle": {
+        "description": "The title of home screen"
+    },
+
+    "favoriteScreenTitle": "Favorites",
+    "@favoriteScreenTitle": {
+        "description": "The title of favorite screen"
+    },
+
+    "settingScreenTitle": "Settings",
+    "@settingScreenTitle": {
+        "description": "The title of settings screen"
+    },
+
+    "settingLanguageScreenTitle": "Language",
+    "@settingLanguageScreenTitle": {
+        "description": "The title of language screen"
+    },
+
+    "settingLanguageDescription": "Change to preferred application's language.",
+    "@settingLanguageDescription": {
+        "description": "The description of language setting"
+    },
+
+    "settingCurrentLanguage": "Current Language",
+    "@settingCurrentLanguage": {
+        "description": "Current language"
+    },
+
+    "settingAvailableLanguages": "Available Languages",
+    "@settingAvailableLanguages": {
+        "description": "Available languages"
+    },
+
+    "settingDarkMode": "Dark Mode",
+    "@settingDarkMode": {
+        "description": "Dark mode setting"
+    },
+
+    "settingDarkModeDescription": "Adjust dark mode or light mode as you want.",
+    "@settingDarkModeDescription": {
+        "description": "The description of dark mode setting"
+    },
+
+    "settingApplicationListTitle": "Application List",
+    "@settingApplicationListTitle": {
+        "description": "Application list"
+    },
+
+    "settingApplicationListDescription": "Modify list of applications.",
+    "@settingApplicationListTitle": {
+        "description": "The description of application list setting"
+    },
+
+    "settingApplicationListDialogTitle": "Add Application",
+    "@settingApplicationListDialogTitle": {
+        "description": "Add application"
+    },
+
+    "settingImport": "Import",
+    "@settingImport": {
+        "description": "Import setting"
+    },
+
+    "settingImportDescription": "Import your previously exported data.",
+    "@settingImportDescription": {
+        "description": "The description of import setting"
+    },
+
+    "settingExport": "Export",
+    "@settingExport": {
+        "description": "Export setting"
+    },
+
+    "settingExportDescription": "Export your data to keep as encrypted text.",
+    "@settingExportDescription": {
+        "description": "The description of export setting"
+    },
+
+    "settingExportDialogBtnCopy": "Copy to Clipboard",
+    "@settingExportDialogBtnCopy": {
+        "description": "Copy to clipboard button text"
+    },
+
+    "settingSecretKey": "Secret Key",
+    "@settingSecretKey": {
+        "description": "Secret key setting"
+    },
+
+    "settingSecretKeyDescription": "Add secret key to encrypt/decrypt your data.",
+    "@settingSecretKeyDescription": {
+        "description": "The description of secret key setting"
+    },
+
+    "settingSecretKeyDialogTitle": "Add Secret Key",
+    "@settingSecretKeyDialogTitle": {
+        "description": "Add secret key"
+    },
+
+    "settingSecretKeyDialogLabel": "Please enter a secret key.",
+    "@settingSecretKeyDialogLabel": {
+        "description": "Label of secret key dialog"
+    },
+
+    "settingPasswordTitle": "Password",
+    "@settingPasswordTitle": {
+        "description": "Password setting"
+    },
+
+    "settingPasswordDescription": "Lock application with password.",
+    "@settingPasswordDescription": {
+        "description": "The description of password setting"
+    },
+
+    "settingPasswordAdd": "Add Password",
+    "@settingPasswordAdd": {
+        "description": "Add password"
+    },
+    
+    "settingPasswordAddDescription": "It'll be asked when the application is starting up.",
+    "@settingPasswordAddDescription": {
+        "description": "The description of add password"
+    },
+
+    "settingPasswordChange": "Change Password",
+    "@settingPasswordChange": {
+        "description": "Change password"
+    },
+
+    "settingPasswordChangeDescription": "Change your current password with new one.",
+    "@settingPasswordChangeDescription": {
+        "description": "The description of change password"
+    },
+
+    "settingPasswordDelete": "Delete Password",
+    "@settingPasswordDelete": {
+        "description": "Delete password"
+    },
+
+    "settingPasswordDeleteDescription": "Remove password asking from start up.",
+    "@settingPasswordDeleteDescription": {
+        "description": "The description of delete password"
+    },
+
+    "settingPasswordAuthenticateDialogTitle": "Authenticate",
+    "@settingPasswordAuthenticateDialogLabel": {
+        "description": "Title of authenticate dialog"
+    },
+
+    "settingPasswordAuthenticateDialogLabel": "Please enter current password.",
+    "@settingPasswordAuthenticateDialogLabel": {
+        "description": "Label of authenticate dialog"
+    },
+
+    "homeAddIdDialogTitle": "Add ID",
+    "@homeAddIdDialogTitle": {
+        "description": "Title of add ID dialog"
+    },
+
+    "homeEditIdDialogTitle": "Edit ID",
+    "@homeEditIdDialogTitle": {
+        "description": "Title of edit ID dialog"
+    },
+
+    "settingAbout": "About",
+    "@settingAbout": {
+        "description": "About setting"
+    },
+
+    "settingAboutDescription": "V.1.0.1",
+    "@settingAboutDescription": {
+        "description": "The description of about setting"
+    },
+
+    "dialogBtnAdd": "Add",
+    "@dialogBtnAdd": {
+        "description": "Dialog add button"
+    },
+
+    "dialogBtnSave": "Save",
+    "@dialogBtnAdd": {
+        "description": "Dialog save button"
+    },
+
+    "dialogBtnUpdate": "Update",
+    "@dialogBtnUpdate": {
+        "description": "Dialog update button"
+    },
+
+    "dialogBtnAuthenticate": "Authenticate",
+    "@dialogBtnAuthenticate": {
+        "description": "Dialog authenticate button"
+    },
+
+    "dialogBtnClose": "Close",
+    "@dialogBtnClose": {
+        "description": "Dialog close button"
+    },
+
+    "dialogBtnMerge": "Merge",
+    "@dialogBtnMerge": {
+        "description": "Dialog merge button"
+    },
+
+    "dialogBtnOverwrite": "Overwrite",
+    "@dialogBtnOverwrite": {
+        "description": "Dialog overwrite button"
+    },
+
+    "dialogBtnCancel": "Cancel",
+    "@dialogBtnCancel": {
+        "description": "Dialog cancel button"
+    },
+
+    "messageDeleteParam": "{param} deleted!",
+    "@messageDeleteParam": {
+        "description": "Delete message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "messageNoDeleteParam": "{param} is being used and cannot be deleted!",
+    "@messageNoDeleteParam": {
+        "description": "No delete message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "messageRemoveFavoriteParam": "{param} removed from favorites list!",
+    "@messageRemoveFavoriteParam": {
+        "description": "Remove from favorite message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "messageUndo": "UNDO",
+    "@messageUndo": {
+        "description": "Undo"
+    },
+
+    "messageCopiedParam": "Copied {param} to clipboard!",
+    "@messageCopiedParam": {
+        "description": "Copied message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "messageCopyParam": "Copy {param}",
+    "@messageCopyParam": {
+        "description": "Copied message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "messageNoRecord": "No records available.",
+    "@messageNoRecord": {
+        "description": "No record"
+    },
+
+    "messagePasswordAdded": "Added password!",
+    "@messagePasswordAdded": {
+        "description": "Added password"
+    },
+
+    "messagePasswordChange": "Changed password!",
+    "@messagePasswordChange": {
+        "description": "Changed password"
+    },
+
+    "messagePasswordDelete": "Deleted password!",
+    "@messagePasswordDelete": {
+        "description": "Deleted password"
+    },
+
+    "messageNotAbleToDoAnyAction": "Not able to do any action when it's locked!",
+    "@messageNotAbleToDoAnyAction": {
+        "description": "Not able to do any action"
+    },
+
+    "messageDataConflict": "Detected data conflict! Please choose either Merge or Overwrite current data.",
+    "@messageDataConflict": {
+        "description": "Data conflict message"
+    },
+
+    "messageInvalidData": "Invalid Data!",
+    "@messageInvalidData": {
+        "description": "Invalid data message"
+    },
+
+    "messageMergeDone": "Merge data process has been completed!",
+    "@messageMergeDone": {
+        "description": "Data merge done message"
+    },
+
+    "messageOverwriteDone": "Overwrite data process has been completed!",
+    "@messageOverwriteDone": {
+        "description": "Data overwrite done message"
+    },
+
+    "messageImportDataDone": "Import data process has been completed!",
+    "@messageImportDataDone": {
+        "description": "Data import done message"
+    },
+
+    "validationMessageRequired": "This field is required!",
+    "@validationMessageRequired": {
+        "description": "Validation message required"
+    },
+    
+    "validationMessageFixedLengthParam": "The fixed length should be {param}.",
+    "@validationMessageFixedLengthParam": {
+        "description": "Validation fixed length message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "validationMessageMinLengthParam": "The length should be at least {param}.",
+    "@validationMessageMinLengthParam": {
+        "description": "Validation min length message with parameter",
+        "placeholders": {
+            "param": {
+                "type": "String"
+            }
+        }
+    },
+
+    "validationMessagePasswordNotMatched": "Password values are not matched!",
+    "@validationMessagePasswordNotMatched": {
+        "description": "Validation message password values not matched"
+    },
+
+    "validationMessageInvalidPassword": "Invalid password!",
+    "@validationMessageInvalidPassword": {
+        "description": "Validation message invalid password"
+    },
+
+    "labelId": "ID",
+    "@labelId": {
+        "description": "Label ID"
+    },
+
+    "labelPassword": "Password",
+    "@labelPassword": {
+        "description": "Label pssword"
+    },
+
+    "labelData": "Export Data",
+    "@labelData": {
+        "description": "Label export data"
+    },
+
+    "labelAllId": "ALL IDs",
+    "@labelAllId": {
+        "description": "Label all IDs"
+    },
+
+    "labelSelectOne": "SELECT ONE",
+    "@labelSelectOne": {
+        "description": "Label select one"
+    },
+
+    "labelLockedTitle": "Locked!",
+    "@labelLockedTitle": {
+        "description": "Label locked title"
+    },
+
+    "labelLockedDescription": "Not able to decrypt data, please make sure whether secret key you're using is correct.",
+    "@labelLockedTitle": {
+        "description": "Label locked title"
+    },
+
+    "hintTextAppName": "Application Name..",
+    "@hintTextAppName": {
+        "description": "Hint text of application name textbox"
+    },
+
+    "hintTextSecretKey": "Secret Key..",
+    "@hintTextSecretKey": {
+        "description": "Hint text of secret key textbox"
+    },
+
+    "hintTextId": "ID..",
+    "@hintTextId": {
+        "description": "Hint text of ID textbox"
+    },
+
+    "hintTextPassword": "Password..",
+    "@hintTextPassword": {
+        "description": "Hint text of password textbox"
+    },
+
+    "hintTextConfirmPassword": "Confirm Password..",
+    "@hintTextConfirmPassword": {
+        "description": "Hint text of confirm password textbox"
+    },
+
+    "hintTextCurrentPassword": "Current Password..",
+    "@hintTextCurrentPassword": {
+        "description": "Hint text of current password textbox"
+    },
+
+    "hintTextImportData": "Please paste encrypted data here..",
+    "@hintTextImportData": {
+        "description": "Hint text of import data textbox"
+    }
+}
