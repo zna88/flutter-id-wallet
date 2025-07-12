@@ -6,19 +6,17 @@ class CustomTheme {
   static final darkTheme = ThemeData(
     colorScheme:
         ColorScheme.dark().copyWith(secondary: Pallete.accentColorDark),
-    dialogBackgroundColor: Pallete.dialogBackgroundColorDark,
     primaryColor: Pallete.primaryColorDark,
-    scaffoldBackgroundColor: Pallete.scaffoldBackgroundColorDark,
+    scaffoldBackgroundColor: Pallete.scaffoldBackgroundColorDark, dialogTheme: DialogThemeData(backgroundColor: Pallete.dialogBackgroundColorDark),
   );
 
   static final lightTheme = ThemeData(
     colorScheme:
         ColorScheme.light().copyWith(secondary: Pallete.accentColorLight),
-    dialogBackgroundColor: Pallete.dialogBackgroundColorLight,
     primaryColor: Pallete.primaryColorLight,
     scaffoldBackgroundColor: Pallete.scaffoldBackgroundColorLight,
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       backgroundColor: Pallete.bottomNavBarBackgroundColorLight,
-    ),
+    ), dialogTheme: DialogThemeData(backgroundColor: Pallete.dialogBackgroundColorLight),
   );
 }
